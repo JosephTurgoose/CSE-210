@@ -4,6 +4,13 @@ class Program
 {
     static void Main(string[] args)
     {
-        Console.WriteLine("Hello Develop05 World!");
+        Storage storage = new Storage();
+        storage.DisplayScore();
+
+        // Create Goal
+        // Progress Goal
+        // Display Goals
+        // Save
+        // Load
     }
 }
