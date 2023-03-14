@@ -32,8 +32,6 @@ class DataManager
 
     }
 
-
-
     public void LoadEntryFromFile()
     {
         // Clear current entry list
